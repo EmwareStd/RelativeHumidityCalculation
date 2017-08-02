@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HiW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HiW_jar</output-path>
+    <root id="archive" name="HiW.jar">
+      <element id="module-output" name="HiW" />
+    </root>
+  </artifact>
+</component>
